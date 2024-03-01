@@ -22,7 +22,7 @@
 }
 
 .mdl-textfield__error {
-  color: lightgreen;
+  color: rgb(145, 228, 145);
 }
 
 .page-content {
@@ -32,5 +32,5 @@
 }
 
 body {
-  background-color: rgb(213, 224, 246);
+  background-color: rgb(139, 227, 202);
 }
